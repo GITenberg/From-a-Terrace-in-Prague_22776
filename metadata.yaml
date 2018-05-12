@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '25535'
     url: http://www.gutenberg.org/2009/agents/25535
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22776#From-a-Terrace-in-Prague
 gutenberg_bookshelf: Czech
 gutenberg_issued: '2007-09-27'
 gutenberg_type: Text
